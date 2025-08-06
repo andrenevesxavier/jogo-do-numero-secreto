@@ -1,3 +1,5 @@
+//talves a grande parte da vida seja apenas dor e sofrimento com alguns momentos felizes e nao ao contrario
+
 let listaDeNumerosSorteados = [];
 let numeroLimite = 1000;
 let numeroSecreto = gerarNumeroAleatorio();
@@ -65,7 +67,7 @@ function reiniciarJogo() {
     document.getElementById('reiniciar').setAttribute('disabled', true)
 }
 
-let tributo = 10
+
 
 
 
